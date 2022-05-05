@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE-edge">
+  <meta name="viewport" content="width-device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles/style.css"/>
+  <script src="https://kit.fontawesome.com/f0cb7e4a.js" crossorigin="anonymous"></script>
+  <title>Code-Web</title>
+  <style>
+      h1{
+          color: red;
+      }
+      p{
+          color: blue;
+      }
+      class{
+          color: green;
+      }
+  </style>
+</head>
+<body>
+  <section class="top">
+    <div class="container">
+      <div class="row">
+        <div class=""logo""><img src="image/logo1.svg" alt=""></div>
+        <div class="menu-bar"
+          <span></span>
+      </div>
+      </section>
+  <section class="big-image"
+    <div class="big-image-content">
+      <h1>Nhà Hàng Bình Dân</h1>
+      <p>Ăn uống no nê, giá nhìn là mê, được gói mang về</p>
+        <div class="menu-items">
+          <ol>
+            <li class="menu-items"><a href="">Trang chủ</a></li>
+            <li class="menu-items"><a href="">Về nhà hàng</a></li>
+            <li class="menu-items"><a href="">Thực đơn</a></li>
+            <li class="menu-items"><a href="">Phản hồi</a></li>
+            <li class="menu-items"><a href="">Liên hệ</a></li>
+          </ol>
+       </div>
+      </div>
+    </div>
+ 
+      <button class="big-image-content-btn btn">MENU</button>
+    <div>
+  </section>   
+      
+  <script src="script.js"></script>
+</body>
+</html>
